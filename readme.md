@@ -168,4 +168,4 @@ You are free to use, modify, and distribute this project with attribution.
 ---
 
 ## 👨‍💻 Authors
-Pranavakumar Murali, Ayush Kumar, Nagararaj, Neha Joshi, Hima Priya
+Pranavakumar Murali, Ruturaj Patil, Lokesh Rathod, Tanishqa Patil
